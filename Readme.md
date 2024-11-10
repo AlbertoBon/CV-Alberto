@@ -35,3 +35,10 @@ No volia fer res massa complicat per no allargar innecessàriament el codi, sobr
 He utilitzat diferents tons de blau per ressaltar els diferents elements significatius de la pàgina, sent els més foscos per a la introducció i final de la pàgina, les franges de cada un dels ítems del main content per separar-ho i finalment un to més clar en la barra de navegació per tal de donar-li menys importància. 
 
 He decidit deixar el fons de color blanc per donar-li un estil molt més senzill, utilitzant aquest mateix color per als  títols i així posar-li més contrast, la lletra del main content és negra per a facilitar la lectura amb el fons blanc.
+
+
+
+
+
+Figma Link:
+https://www.figma.com/proto/208MIwjTph3cdk6ztqhWjv/Untitled?node-id=0-1&t=6H3aohKqbiAxiCVt-1 
